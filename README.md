@@ -16,7 +16,7 @@ https://github.com/Timofei2506/exadokoos-kent/releases/download/v1.0.0/ExadokoOS
 ```
 
 Или вручную: вкладка **Releases** → релиз `v1.0.0` → раздел **Assets** →
-`ExadokoOS-1.0.0-installer-kde-amd64.iso` (852 МБ) — скачается на телефон.
+`ExadokoOS-1.0.0-installer-kde-amd64.iso` (852 МБ, сборка от 05.10.2026) — скачается на телефон.
 Рядом лежит `.sha256` — по желанию проверь целостность:
 
 ```bash
@@ -24,7 +24,7 @@ sha256sum -c ExadokoOS-1.0.0-installer-kde-amd64.iso.sha256
 # ожидаемый ответ: ExadokoOS-1.0.0-installer-kde-amd64.iso: OK
 ```
 
-sha256: `89a88d49b2f4d0f21f76a739c3cdb38aa215a079542d76ab65f1f150e4837575`
+sha256: `669c305287af3cd130407341c5491a99891904056549c892d480158af6faf66c`
 
 > Репозиторий **приватный**: ссылка открывается только залогиненным в GitHub.
 > Если качать будет кент со своего телефона — добавь его в
